@@ -118,23 +118,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=aguustinn&show_icons=true&theme=shadow_red&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguustinn&theme=shadow_red&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  
-</p>
-
 
